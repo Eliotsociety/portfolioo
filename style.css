@@ -1546,6 +1546,7 @@ textarea.form-input::-webkit-realizer {
   .sidebar,
   article {
     width: 520px;
+    height: 900px;
     margin-inline: auto;
     padding: 30px;
   }
